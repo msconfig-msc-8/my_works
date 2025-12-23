@@ -1,0 +1,16 @@
+# ---- Project ----
+PROJECT_NAME           = "Lab11 - Fifteen Puzzle"
+OUTPUT_DIRECTORY       = docs/doxygen
+CREATE_SUBDIRS         = NO
+
+# ---- Input ----
+INPUT                  = include src app
+RECURSIVE              = YES
+FILE_PATTERNS          = *.h *.hpp *.cpp
+EXTRACT_ALL            = YES
+QUIET                  = NO
+WARN_IF_UNDOCUMENTED   = YES
+
+# ---- Output ----
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO

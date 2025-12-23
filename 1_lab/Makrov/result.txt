@@ -1,0 +1,4 @@
+Initial: "aaaaloaaa"
+Steps: 22
+Final: "nbhnbhnbhnbhbhonbhnbhnbh"
+Status: HALTED

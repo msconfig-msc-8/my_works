@@ -1,0 +1,50 @@
+concept_device
+=> nrel_main_idtf: [устройство] (* <- lang_ru;; *);
+=> nrel_main_idtf: [device] (* <- lang_en;; *);;
+
+concept_server
+=> nrel_main_idtf: [сервер] (* <- lang_ru;; *);
+=> nrel_main_idtf: [server] (* <- lang_en;; *);
+<- concept_device;;
+
+concept_workstation
+=> nrel_main_idtf: [рабочая станция] (* <- lang_ru;; *);
+=> nrel_main_idtf: [workstation] (* <- lang_en;; *);
+<- concept_device;;
+
+concept_switch
+=> nrel_main_idtf: [коммутатор] (* <- lang_ru;; *);
+=> nrel_main_idtf: [switch] (* <- lang_en;; *);
+<- concept_device;;
+
+concept_router
+=> nrel_main_idtf: [маршрутизатор] (* <- lang_ru;; *);
+=> nrel_main_idtf: [router] (* <- lang_en;; *);
+<- concept_device;;
+
+concept_gateway
+=> nrel_main_idtf: [шлюз] (* <- lang_ru;; *);
+=> nrel_main_idtf: [gateway] (* <- lang_en;; *);
+<- concept_device;;
+
+nrel_connected_to
+=> nrel_main_idtf: [соединен с] (* <- lang_ru;; *);
+=> nrel_main_idtf: [connected to] (* <- lang_en;; *);
+<- sc_node_non_role_relation;
+<- symmetric_relation;
+<- binary_relation;;
+
+action_find_articulation_points
+=> nrel_main_idtf: [найти точки сочленения] (* <- lang_ru;; *);
+=> nrel_main_idtf: [find articulation points] (* <- lang_en;; *);
+<- sc_node_class;;
+
+action_find_bridges
+=> nrel_main_idtf: [найти мосты] (* <- lang_ru;; *);
+=> nrel_main_idtf: [find bridges] (* <- lang_en;; *);
+<- sc_node_class;;
+
+action_find_vertex_connectivity
+=> nrel_main_idtf: [найти вершинную связность] (* <- lang_ru;; *);
+=> nrel_main_idtf: [find vertex connectivity] (* <- lang_en;; *);
+<- sc_node_class;;

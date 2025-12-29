@@ -1,0 +1,19 @@
+network_infotech
+=> nrel_main_idtf: [Сеть ООО "ИнфоТех"] (* <- lang_ru;; *);
+<- sc_node_structure;;
+
+ws_01 <- concept_workstation;;
+ws_02 <- concept_workstation;;
+ws_03 <- concept_workstation;;
+server_01 <- concept_server;;
+switch_01 <- concept_switch;;
+router_01 <- concept_router;;
+
+network_infotech -> ws_01; ws_02; ws_03; server_01; switch_01; router_01;;
+
+// Connections
+switch_01 => nrel_connected_to: ws_01;;
+switch_01 => nrel_connected_to: ws_02;;
+switch_01 => nrel_connected_to: ws_03;;
+switch_01 => nrel_connected_to: server_01;;
+switch_01 => nrel_connected_to: router_01;;

@@ -1,0 +1,7 @@
+nrel_articulation_points
+<- sc_node_non_role_relation;
+=> nrel_main_idtf:
+  [точки сочленения сети*]
+  (* <- lang_ru;; *);
+  [articulation points of network*]
+  (* <- lang_en;; *);;

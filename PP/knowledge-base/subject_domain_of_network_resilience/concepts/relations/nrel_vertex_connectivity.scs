@@ -1,0 +1,7 @@
+nrel_vertex_connectivity
+<- sc_node_non_role_relation;
+=> nrel_main_idtf:
+  [вершинная связность сети*]
+  (* <- lang_ru;; *);
+  [vertex connectivity of network*]
+  (* <- lang_en;; *);;

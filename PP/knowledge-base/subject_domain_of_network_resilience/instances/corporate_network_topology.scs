@@ -1,0 +1,22 @@
+corporate_network_topology
+<- concept_network_topology;;
+
+/* ---- Devices (instances) ---- */
+ws_01 <- concept_workstation;;
+ws_02 <- concept_workstation;;
+sw_01 <- concept_switch;;
+rt_01 <- concept_router;;
+gw_01 <- concept_gateway;;
+
+/* ---- Add devices to topology (as elements of the structure/set) ---- */
+corporate_network_topology -> ws_01;;
+corporate_network_topology -> ws_02;;
+corporate_network_topology -> sw_01;;
+corporate_network_topology -> rt_01;;
+corporate_network_topology -> gw_01;;
+
+/* ---- Physical connections (undirected logically; we store one arc per edge) ---- */
+ws_01 => nrel_physical_connection: sw_01;;
+ws_02 => nrel_physical_connection: sw_01;;
+sw_01 => nrel_physical_connection: rt_01;;
+rt_01 => nrel_physical_connection: gw_01;;

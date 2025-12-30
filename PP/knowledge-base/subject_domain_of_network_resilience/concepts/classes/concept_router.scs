@@ -1,0 +1,8 @@
+concept_router
+<- sc_node_class;
+=> nrel_main_idtf:
+  [маршрутизатор]
+  (* <- lang_ru;; *);
+  [router]
+  (* <- lang_en;; *);
+<= nrel_inclusion: concept_network_device;;

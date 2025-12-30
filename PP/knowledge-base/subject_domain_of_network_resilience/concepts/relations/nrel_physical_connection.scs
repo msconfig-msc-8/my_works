@@ -1,0 +1,7 @@
+nrel_physical_connection
+<- sc_node_non_role_relation;
+=> nrel_main_idtf:
+  [физическое соединение*]
+  (* <- lang_ru;; *);
+  [physical connection*]
+  (* <- lang_en;; *);;

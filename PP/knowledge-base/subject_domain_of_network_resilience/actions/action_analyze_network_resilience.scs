@@ -1,0 +1,5 @@
+action_analyze_network_resilience
+<- sc_node_class;
+=> nrel_main_idtf: [проанализировать отказоустойчивость сети] (* <- lang_ru;; *);
+=> nrel_main_idtf: [analyze network resilience] (* <- lang_en;; *);
+<= nrel_inclusion: concept_information_action;;

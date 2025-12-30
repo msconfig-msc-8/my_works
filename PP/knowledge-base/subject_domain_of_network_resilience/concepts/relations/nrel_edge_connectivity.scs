@@ -1,0 +1,7 @@
+nrel_edge_connectivity
+<- sc_node_non_role_relation;
+=> nrel_main_idtf:
+  [рёберная связность сети*]
+  (* <- lang_ru;; *);
+  [edge connectivity of network*]
+  (* <- lang_en;; *);;

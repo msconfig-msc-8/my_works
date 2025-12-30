@@ -1,0 +1,7 @@
+concept_network_topology
+<- sc_node_class;
+=> nrel_main_idtf:
+  [топология сети]
+  (* <- lang_ru;; *);
+  [network topology]
+  (* <- lang_en;; *);;

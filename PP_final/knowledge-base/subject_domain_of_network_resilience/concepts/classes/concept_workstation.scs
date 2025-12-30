@@ -1,0 +1,8 @@
+concept_workstation
+<- sc_node_class;
+=> nrel_main_idtf:
+  [рабочая станция]
+  (* <- lang_ru;; *);
+  [workstation]
+  (* <- lang_en;; *);
+<= nrel_inclusion: concept_network_device;;

@@ -1,0 +1,436 @@
+[1212/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/na_ontologies/lib_ui_na_ontologies.scs - ok
+[1213/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/validation/lib_component_proc_of_adding_validating_message/lib_component_proc_of_adding_validating_message.scs - ok
+[1214/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/verification/agent_of_checking_subject_domain_membership_for_classes_in_given_structure/agent_of_checking_subject_domain_membership_for_classes_in_given_structure_content.scs - ok
+[1215/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/validation/section_library_of_reusable_scp_programs_for_validation_content.scs - ok
+[1216/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/ontology_forming/agent_of_forming_terminological_ontology/sc_agent_of_forming_terminological_ontology.scs - ok
+[1217/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/ontology_forming/agent_of_forming_terminological_ontology/lib_component_agent_of_forming_terminological_ontology.scs - ok
+[1218/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/ontology_forming/common/scp_program_component/proc_of_finding_definitional_domain/lib_component_proc_of_finding_definitional_domain.scs - ok
+[1219/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/ontology_forming/common/scp_program_component/lib_component_proc_of_forming_set_theoretic_semantic_neighbourhood_for_sc_element/lib_component_proc_of_forming_set_theoretic_semantic_neighbourhood_for_sc_element.scs - ok
+[1220/1455]: knowledge-base/ims.ostis.kb/ims/doc_IMS/justification_of_development_IMS/section_type_purpose_and_structure_of_IMS_content.scs - ok
+[1221/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/semantic_network_represent/section_scn_code/section_scn_code_extension_3.scs - ok
+[1222/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/ontology_forming/common/scp_program_component/lib_component_proc_of_forming_set_theoretic_semantic_neighbourhood_for_sc_element/proc_of_forming_set_theoretic_semantic_neighbourhood_for_sc_element_content.scs - ok
+[1223/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/technique/section_technique_of_designing_unified_semantic_models_of_kb/section_techn_of_designing_models_texts_administrator.scs - ok
+[1224/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/ontology_forming/common/scp_program_component/lib_component_proc_of_finding_identifiers_extended/proc_of_finding_identifier_extended_content.scs - ok
+[1225/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/ontology_forming/agent_of_forming_set_theoretic_ontology/lib_component_agent_of_forming_set_theoretic_ontology.scs - ok
+[1226/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Kb_volume_metrics/count_structures_in_structure/ui_menu_file_for_counting_structures_in_structure_content.scs - ok
+[1227/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/section_kpm_agent_library_of_logical_inference.scs - ok
+[1228/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/section_kpm_agent_library_of_knowledge_integration_into_base.scs - ok
+[1229/1455]: knowledge-base/examples/subject_domain_of_blockchain/templates/template_for_searching_blocks_in_blockchain.scs - ok
+[1230/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/Methods_evaluation/Depth_metrics/agent_calculat_norm_disp_onto_dep/agent_calc_norm_disp_onto_dep_content.scs - ok
+[1231/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/section_kpm_agent_library_of_ontology_alignment_content.scs - ok
+[1232/1455]: knowledge-base/ims.ostis.kb/ims/OSTIS_hist_curr_stt_perspect_of_evol_and_use/section_planned_directions_of_further_development_of_the_project_OSTIS/section_planned_directions_of_further_development_of_the_project_OSTIS.scs - ok
+[1233/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_c_agents/search_of_decomposition/lib_component_agent_of_search_of_decomposition.scs - ok
+[1234/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/section_library_of_reusable_components_kpm.scs - ok
+[1235/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/set_of_platforms/web_software_sc_memory_content.scs - ok
+[1236/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/Methods_evaluation/Kb_volume_metrics/agent_of_calculation_average_depth_of_subject_domain/sc_agent_of_calculation_average_depth_of_subject_domain.scs - ok
+[1237/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Kb_volume_metrics/count_nodes_in_structure/ui_menu_file_for_counting_nodes_in_structure_content.scs - ok
+[1238/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/set_of_platforms/web_software_sc_memory/justification.scs - ok
+[1239/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/set_of_platforms/web_software_sc_memory.scs - ok
+[1240/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/set_of_platforms/section_concept_of_sc_models_interpretation_platform_content.scs - ok
+[1241/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/section_library_of_typical_subsystems_of_computer_systems/section_core_and_extensions_of_ostis_systems_core_content.scs - ok
+[1242/1455]: problem-solver/cxx/example-module/specifications/agent_of_subdividing_search/ui_menu_subdividing_search.scs - ok
+[1243/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/section_library_of_typical_subsystems_of_computer_systems/section_core_and_extensions_of_ostis_systems_core.scs - ok
+[1244/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/justification/section_tools_ostis/struct_syst_models/section_the_unification_of_semantic_models_of_user_interfaces/section_the_unification_of_semantic_models_of_user_interfaces.scs - ok
+[1245/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/section_concept_of_reusable_component_OSTIS.scs - ok
+[1246/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/set_of_platforms.scs - ok
+[1247/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/Methods_evaluation/Kb_volume_metrics/agent_of_counting_arcs_in_structure/lib_component_agent_of_counting_arcs_in_structure.scs - ok
+[1248/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/section_concept_of_reusable_component_interface.scs - ok
+[1249/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/unauthorized_users/with_context/find_all_subclasses_in_quasybinary_relation_in_the_agreed_part_of_kb/ui_menu_view_all_subclasses_in_quasybinary_relation_in_the_agreed_part_of_kb_content.scs - ok
+[1250/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/activity_automatisation/admin/agent_of_assign_user_as_administrator/sc_agent_of_assign_user_as_administrator.scs - ok
+[1251/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_c_agents/set_cantorization/sc_agent_of_set_cantorization.scs - ok
+[1252/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/section_concept_of_reusable_component_interface_content.scs - ok
+[1253/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/section_library_of_visualizators_content.scs - ok
+[1254/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/section_library_of_external_languages_editors.scs - ok
+[1255/1455]: knowledge-base/ims.ostis.kb/ims/project_IMS_history_and_development_programme/development_programme_IMS.scs - ok
+[1256/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/section_library_of_translators_from_sc_content.scs - ok
+[1257/1455]: knowledge-base/ims.ostis.kb/to_check/nrel_using_example.scs - ok
+[1258/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/verification/agent_check_cycle_exist_order_rel/sc_agent_check_cycle_exist_order_rel.scs - ok
+[1259/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/section_library_of_external_languages_description.scs - ok
+[1260/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/section_library_of_translators_from_sc.scs - ok
+[1261/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/na_statements/ui_na_statements_content.scs - ok
+[1262/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/eekb_commands/navigation_for_eekb/navigation_by_proposal_for_eekb/ui_menu_navigation_by_proposal_for_eekb_content.scs - ok
+[1263/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/unauthorized_users/with_context/find_all_output_const_pos_arc_with_rel_in_the_agreed_part_of_kb/lib_component_ui_menu_view_all_output_const_pos_arc_with_rel_in_the_agreed_part_of_kb.scs - ok
+[1264/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/section_library_of_translators_to_sc_content.scs - ok
+[1265/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/na_subject_domains/ui_na_subject_domains_content.scs - ok
+[1266/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/na_subject_domains/lib_ui_na_subject_domains.scs - ok
+[1267/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/na_view_kb_identifiers/lib_ui_menu_na_view_kb_identifiers.scs - ok
+[1268/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/kb_editing/ui_menu_file_for_removing_elements_of_the_struct/lib_component_ui_menu_file_for_removing_elements_of_the_struct.scs - ok
+[1269/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/na_kb_evaluation/na_kb_volume_metrics/ui_menu_na_kb_volume_metrics_content.scs - ok
+[1270/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/kb_editing/ui_menu_file_for_removal_sc_element/lib_component_ui_menu_file_for_removing_sc_element.scs - ok
+[1271/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/authorized_users/without_context/find_relation/lib_component_ui_menu_file_for_finding_relation.scs - ok
+[1272/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/kb_editing/ui_menu_file_for_change_arc_direction/ui_menu_file_for_change_arc_direction_content.scs - ok
+[1273/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/unificated_models/section_unificated_models_interface/model_of_user_interface/models_of_ui_native_languages/semantic_model_russian_texts_parsing.scs - ok
+[1274/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/admin/ui_menu_appr_prop_edit_kb/lib_comp_admin_appr_prop_edit_kb.scs - ok
+[1275/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/kb_editing/ui_menu_file_for_changing_system_identifier/lib_component_ui_menu_file_for_changing_system_identifier.scs - ok
+[1276/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/technique.scs - ok
+[1277/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/na_activity_automatisation/developer/lib_ui_menu_na_developer.scs - ok
+[1278/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/authorized_users/without_context/find_key_concepts/ui_menu_file_for_finding_key_concepts_content.scs - ok
+[1279/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/classification_agents/ui_menu_file_for_finding_all_drafts_of_author/ui_menu_file_for_finding_all_drafts_of_author_content.scs - ok
+[1280/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/technique/section_set_of_techniques_intelligent_systems_design/section_complex_technique_сomponent_design_of_iis.scs - ok
+[1281/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Kb_volume_metrics/ui_menu_file_for_calculation_number_of_class_instances/ui_menu_file_for_calculation_number_of_class_instances_content.scs - ok
+[1282/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/kb_editing/ui_menu_file_for_changing_system_identifier/ui_menu_file_for_changing_system_identifier_content.scs - ok
+[1283/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/na_view_kb_base/ui_menu_na_view_kb_base_content.scs - ok
+[1284/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/na_kb_verification/lib_component_ui_menu_na_kb_verification.scs - ok
+[1285/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/developer/ui_menu_form_prop_proj_tasks/ui_menu_file_for_formation_proposed_project_tasks_content.scs - ok
+[1286/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/na_kb_verification/ui_menu_na_kb_verification_content.scs - ok
+[1287/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Kb_volume_metrics/count_arcs_in_structure_with_context/ui_menu_file_for_counting_arcs_in_structure_with_context_content.scs - ok
+[1288/1455]: knowledge-base/ims.ostis.kb/ui/ui_user.scs - ok
+[1289/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Kb_volume_metrics/count_structures_in_structure/lib_component_ui_menu_file_for_counting_structures_in_structure.scs - ok
+[1290/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Kb_volume_metrics/ui_menu_file_for_calculation_number_of_concepts_and_relations/lib_component_ui_menu_file_for_calculation_number_of_concepts_and_relations.scs - ok
+[1291/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Kb_volume_metrics/ui_menu_file_for_counting_logical_formulas_quantity/lib_component_ui_menu_file_for_counting_logical_formulas_quantity.scs - ok
+[1292/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Kb_volume_metrics/count_variables_in_structure/lib_component_ui_menu_file_for_counting_variables_in_structure.scs - ok
+[1293/1455]: knowledge-base/ims.ostis.kb/ims/project_IMS_history_and_development_programme/history_of_development_IMS.scs - ok
+[1294/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Kb_volume_metrics/count_nodes_in_structure/lib_component_ui_menu_file_for_counting_nodes_in_structure.scs - ok
+[1295/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Kb_volume_metrics/count_variables_in_structure/ui_menu_file_for_counting_variables_in_structure_content.scs - ok
+[1296/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Kb_volume_metrics/ui_menu_file_for_calculation_average_depth_of_subject_domain/lib_component_ui_menu_file_for_calculation_average_depth_of_subject_domain.scs - ok
+[1297/1455]: knowledge-base/ims.ostis.kb/to_check/lang/scg_code.scs - ok
+[1298/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Kb_volume_metrics/ui_menu_calc_number_subjdomains/ui_menu_calc_number_subjdomains_content.scs - ok
+[1299/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Kb_volume_metrics/count_nodes_in_structure_with_context/lib_component_ui_menu_file_for_counting_nodes_in_structure_with_context.scs - ok
+[1300/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Kb_volume_metrics/ui_menu_calc_number_subjdomains/lib_comp_calc_number_subjdomains.scs - ok
+[1301/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/unauthorized_users/with_context/find_links_of_relation_connected_with_element_in_the_agreed_part_of_kb/ui_menu_view_links_of_relation_connected_with_element_in_the_agreed_part_of_kb_content.scs - ok
+[1302/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Kb_volume_metrics/count_structures_in_structure_with_context/lib_component_ui_menu_file_for_counting_structures_in_structure_with_context.scs - ok
+[1303/1455]: knowledge-base/ims.ostis.kb/to_check/formats.scs - ok
+[1304/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Kb_volume_metrics/ui_menu_calc_number_sect/lib_comp_calc_number_sect.scs - ok
+[1305/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/activity_automatisation/common/common.scs - ok
+[1306/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Kb_volume_metrics/count_arcs_in_structure/lib_component_ui_menu_file_for_counting_arcs_in_structure.scs - ok
+[1307/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Kb_volume_metrics/count_variables_in_structure_with_context/ui_menu_file_for_counting_variables_in_structure_with_context_content.scs - ok
+[1308/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/unificated_models/section_unificated_models_kpm/section_unified_models_of_solution_search_of_formulated_tasks.scs - ok
+[1309/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/eekb_commands/kb_evaluation_for_eekb/kb_volume_metrics/lib_ui_menu_kb_volume_metrics_for_eekb.scs - ok
+[1310/1455]: knowledge-base/ims.ostis.kb/to_check/nrel_wiki_link.scs - ok
+[1311/1455]: knowledge-base/ims.ostis.kb/ims/OSTIS_hist_curr_stt_perspect_of_evol_and_use/section_prerequisites_for_ostis_technology_creation.scs - ok
+[1312/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/Methods_evaluation/Depth_metrics/agent_calcul_med_onto_dep/sc_agent_calc_med_onto_dep.scs - ok
+[1313/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Kb_volume_metrics/count_nodes_in_structure_with_context/ui_menu_file_for_counting_nodes_in_structure_with_context_content.scs - ok
+[1314/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/section_library_of_typical_subsystems_of_computer_systems/section_library_subsystems_advisory_services_training_component_developers_ostis_content.scs - ok
+[1315/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Depth_metrics/ui_menu_calc_norm_disp_onto_dep/lib_comp_calc_norm_disp_onto_dep.scs - ok
+[1316/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Depth_metrics/ui_menu_calc_max_value_onto_dep/lib_comp_calc_max_value_onto_dep.scs - ok
+[1317/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/authorized_users/without_context/find_all_input_const_pos_arc/ui_menu_view_all_input_const_pos_arc_content.scs - ok
+[1318/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/section_library_of_communication_environments_content.scs - ok
+[1319/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/section_library_of_communication_environments.scs - ok
+[1320/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/eekb_commands/activity_automatisation_for_eekb/developer/lib_ui_menu_developer_for_eekb.scs - ok
+[1321/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Depth_metrics/ui_menu_calc_disp_onto_dep/lib_comp_calc_disp_onto_dep.scs - ok
+[1322/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/unificated_models/section_subjdomain_of_unified_sc_models/section_subjdomain_of_unified_sc_models_content.scs - ok
+[1323/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Depth_metrics/ui_menu_calc_med_onto_dep/ui_menu_calc_med_onto_dep_content.scs - ok
+[1324/1455]: knowledge-base/ims.ostis.kb/ui/ui_rrel_command_arguments.scs - ok
+[1325/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/unificated_models/section_unificated_models_kb/section_structure_of_knowledge_base_model/section_structure_of_knowledge_base_model_content.scs - ok
+[1326/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Depth_metrics/ui_menu_calc_med_onto_dep/lib_comp_calc_med_onto_dep.scs - ok
+[1327/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/unificated_models/section_unificated_models_kpm/section_unified_model_of_garbage_collection.scs - ok
+[1328/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/eekb_commands/kb_evaluation_for_eekb/kb_volume_metrics/ui_menu_kb_volume_metrics_for_eekb_content.scs - ok
+[1329/1455]: knowledge-base/ims.ostis.kb/ui/model/ui_user_command.scs - ok
+[1330/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/unauthorized_users/with_context/find_all_identifiers_in_the_agreed_part_of_kb/ui_menu_view_all_identifiers_in_the_agreed_part_of_kb_content.scs - ok
+[1331/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Ingwe-Miller metrics/ui_menu_calcul_90th_perc_vertex_degrees/ui_menu_calc_90th_perc_v_degr_content.scs - ok
+[1332/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Ingwe-Miller metrics/ui_menu_calcul_disper_vertex_degrees/ui_menu_calc_disp_v_degr_content.scs - ok
+[1333/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/authorized_users/without_context/find_all_output_const_pos_arc/ui_menu_view_all_output_const_pos_arc_content.scs - ok
+[1334/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Ingwe-Miller metrics/ui_menu_calcul_norm_numb_vert_norm_degr/ui_menu_calc_norm_n_v_norm_deg_content.scs - ok
+[1335/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/Methods_evaluation/Ingwe_Miller_metrics/agent_calcul_90th_perc_vertex_degr/agent_calc_90th_perc_v_degr_content.scs - ok
+[1336/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Metrics_of_diff_vertex_connections/ui_menu_file_for_calculation_number_of_all_types_of_input_connections_of_vertex/lib_component_ui_menu_file_for_calculation_number_of_all_types_of_input_connections_of_vertex.scs - ok
+[1337/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Metrics_of_diff_vertex_connections/lib_component_ui_menu_file_for_calculation_number_of_diff_input_connections_for_vertex_to_all_ontology_vertexes/ui_menu_file_for_calculation_number_of_diff_input_connections_for_vertex_to_all_ontology_vertexes_content.scs - ok
+[1338/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/admin/ui_menu_appr_verif_res_of_offer/ui_approval_verification_result_of_offer_content.scs - ok
+[1339/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Metrics_of_diff_vertex_connections/ui_menu_file_for_calculation_average_value_of_outbound_connections_vertex_of_ontology/lib_component_ui_menu_file_for_calculation_average_value_of_outbound_connections_vertex_of_ontology.scs - ok
+[1340/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/na_activity_automatisation/classification_agents/lib_ui_menu_na_kb_classification_agents.scs - ok
+[1341/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/section_library_of_typical_subsystems_of_computer_systems/section_concept_of_typical_subsystem_ostis_content.scs - ok
+[1342/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/eekb_commands/kb_evaluation_for_eekb/Ingwe_Miller_metrics/ui_menu_Ingwe_Miller_metrics_for_eekb_content.scs - ok
+[1343/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/na_activity_automatisation/developer/ui_menu_na_developer_content.scs - ok
+[1344/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Ingwe-Miller metrics/ui_menu_calcul_norm_numb_vert_norm_degr/lib_comp_calc_norm_n_v_norm_deg.scs - ok
+[1345/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Metrics_of_diff_vertex_connections/ui_menu_file_for_calculation_average_value_of_outbound_connections_vertex_of_ontology/ui_menu_file_for_calculation_average_value_of_outbound_connections_vertex_of_ontology_content.scs - ok
+[1346/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/na_activity_automatisation/admin/lib_ui_menu_na_admin.scs - ok
+[1347/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/authorized_users/without_context/erase_elements/lib_component_ui_menu_erase_elements.scs - ok
+[1348/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/na_activity_automatisation/ui_menu_na_activity_automatisation_content.scs - ok
+[1349/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/Methods_evaluation/Metrics_of_diff_vertex_connections/common/scp_program_component/proc_of_input_connections_calculation/proc_of_input_connections_calculation.scs - ok
+[1350/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/na_activity_automatisation/drafts/lib_ui_menu_na_drafts.scs - ok
+[1351/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/activity_automatisation/admin/agent_admin_reject_prop_edit_kb/lib_comp_admin_reject_edit_kb.scs - ok
+[1352/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/na_activity_automatisation/ontology_forming/ui_menu_na_ontology_forming_content.scs - ok
+[1353/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/na_view_kb_structure/ui_menu_na_view_kb_structure_content.scs - ok
+[1354/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/verification/ui_menu_file_for_checking_key_sc_elements_of_the_semantic_neighborhoods_in_the_given_structure/lib_ui_menu_file_for_checking_key_sc_elements_of_the_semantic_neighborhoods_in_the_given_structure.scs - ok
+[1355/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/na_activity_automatisation/manager/ui_menu_na_manager_content.scs - ok
+[1356/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Depth_metrics/ui_menu_calc_90th_perc_onto_dep/lib_comp_calc_90th_perc_onto_dep.scs - ok
+[1357/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/classification_agents/ui_menu_file_for_finding_initiated_signs_of_actions_for_specific_class_of_actions/lib_component_ui_menu_file_for_finding_initiated_signs_of_actions_for_specific_class_of_actions.scs - ok
+[1358/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/classification_agents/ui_menu_file_for_finding_approved_proposals_of_author/ui_menu_file_for_finding_approved_proposals_of_author_content.scs - ok
+[1359/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/expert/ui_menu_assign_form_verif_produce/lib_comp_assign_form_verif_prod.scs - ok
+[1360/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/authorized_users/without_context/find_solution/ui_menu_file_for_finding_solution_content.scs - ok
+[1361/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Metrics_of_diff_vertex_connections/lib_component_ui_menu_file_for_calculation_number_of_diff_input_connections_for_vertex_to_all_ontology_vertexes/lib_component_ui_menu_file_for_calculation_number_of_diff_input_connections_for_vertex_to_all_ontology_vertexes.scs - ok
+[1362/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/tools/dev_kb/section_subsystem_dev_kb_developer_hierarchy/section_kb_subsystem_dev_kb_developer_hierarchy.scs - ok
+[1363/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/classification_agents/ui_menu_file_for_finding_approved_proposals_by_user/ui_menu_file_for_finding_approved_proposals_by_user_content.scs - ok
+[1364/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/classification_agents/ui_menu_file_for_finding_all_unreviewed_proposals_of_author/lib_ui_menu_file_for_finding_all_unreviewed_proposals_of_author.scs - ok
+[1365/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/classification_agents/ui_menu_file_for_finding_initiated_signs_of_actions_for_specific_class_of_actions/ui_menu_file_for_finding_initiated_signs_of_actions_for_specific_class_of_actions_content.scs - ok
+[1366/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/classification_agents/ui_menu_file_for_finding_all_unreviewed_proposals_of_author/ui_menu_file_for_finding_all_unreviewed_proposals_of_author_content.scs - ok
+[1367/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/classification_agents/ui_menu_file_for_finding_approved_proposals_by_user_with_context/ui_menu_file_for_finding_approved_proposals_by_user_with_context_content.scs - ok
+[1368/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/section_kpm_agent_library_of_solution_planning_for_formulated_tasks_content.scs - ok
+[1369/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/classification_agents/ui_menu_file_for_finding_all_initiated_signs/ui_menu_file_for_finding_all_initiated_signs_content.scs - ok
+[1370/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/classification_agents/ui_menu_file_for_finding_rejected_proposals_by_user_with_context/lib_ui_menu_file_for_finding_rejected_proposals_by_user_with_context.scs - ok
+[1371/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Depth_metrics/ui_menu_calc_avg_value_onto_dep/lib_comp_calc_avg_value_onto_dep.scs - ok
+[1372/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/classification_agents/ui_menu_file_for_finding_all_drafts_of_question_author/ui_menu_file_for_finding_all_drafts_of_question_author_content.scs - ok
+[1373/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/activity_automatisation/classification_agents/lib_component_agent_of_finding_approved_proposals_by_user/sc_agent_of_finding_approved_proposals_by_user.scs - ok
+[1374/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/classification_agents/ui_menu_file_for_finding_all_proposals_of_author/ui_menu_file_for_finding_all_proposals_of_author_content.scs - ok
+[1375/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/classification_agents/ui_menu_file_for_finding_all_proposals_of_question_author/lib_ui_menu_file_for_finding_all_proposals_by_question_author.scs - ok
+[1376/1455]: knowledge-base/subject_domain_of_project/concepts/classes/concept_project.scs - ok
+[1377/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/developer/ui_menu_file_for_formation_suggestion_edit_kb_to_concrete_section/ui_menu_file_for_formation_suggestion_edit_kb_to_concrete_section_content.scs - ok
+[1378/1455]: knowledge-base/ims.ostis.kb/to_check/primary_concept.scs - ok
+[1379/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/Methods_evaluation/common/scp_prog_comp/lib_comp_find_max_of_set/proc_find_max_of_set_content.scs - ok
+[1380/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/developer/ui_menu_file_for_formation_suggestion_edit_kb_to_concrete_section/lib_component_ui_menu_file_for_formation_suggestion_edit_kb_to_concrete_section.scs - ok
+[1381/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/admin/ui_menu_appr_prop_edit_kb/ui_menu_admin_appr_prop_edit_kb_content.scs - ok
+[1382/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/admin/ui_menu_file_for_assign_user_as_manager/ui_menu_agent_of_assign_user_as_manager_content.scs - ok
+[1383/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/justification/section_model_of_OSTIS_IS/section_semantic_represent_info_in_sys_memory/sectn_clarif_concepts_semantic_network/sect_clarif_concp_semantic_net.scs - ok
+[1384/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/verification/scp_program_component/lib_component_proc_of_clipping_elements_not_part_of_the_cycle/lib_component_proc_of_clipping_elements_not_part_of_the_cycle.scs - ok
+[1385/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/admin/ui_menu_file_for_assign_user_as_expert/lib_component_ui_menu_agent_of_assign_user_as_expert.scs - ok
+[1386/1455]: knowledge-base/subject_domain_of_network_resilience/concepts/relations/nrel_edge_connectivity.scs - ok
+[1387/1455]: knowledge-base/subject_domain_of_project/concepts/relations/nrel_early_start.scs - ok
+[1388/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/Methods_evaluation/Depth_metrics/ui_menu_calc_disp_onto_dep/ui_menu_calc_disp_onto_dep_content.scs - ok
+[1389/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/admin/ui_menu_appr_verif_res_of_offer/lib_comp_appr_verif_res_of_offer.scs - ok
+[1390/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/forming_agents/agent_of_forming_agreed_knowledge_base_part/agent_of_forming_agreed_knowledge_base_part_content.scs - ok
+[1391/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/admin/ui_menu_admin_reject_prop_edit_kb/ui_menu_admin_reject_prop_edit_kb_content.scs - ok
+[1392/1455]: knowledge-base/examples/subject_domain_of_universities/agents/agent_for_searching_students_with_good_marks/sc_agent_for_searching_students_with_good_marks.scs - ok
+[1393/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/admin/ui_menu_admin_reject_prop_edit_kb/lib_comp_admin_reject_prop_edit_kb.scs - ok
+[1394/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/admin/ui_menu_file_of_verify_the_desired_structure/ui_menu_file_for_verify_the_desired_structure_content.scs - ok
+[1395/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/ontology_forming/common/scp_program_component/lib_component_proc_of_forming_terminological_ontology/proc_of_forming_terminological_ontology_content.scs - ok
+[1396/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/admin/ui_menu_file_for_assign_user_as_administrator/lib_component_ui_menu_agent_of_assign_administrator.scs - ok
+[1397/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/drafts/ui_menu_file_for_finding_drafts_developed_by_specific_developer/lib_component_ui_menu_file_for_finding_drafts_developed_by_specific_developer.scs - ok
+[1398/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/drafts/ui_menu_file_for_finding_drafts_developed_by_specific_developer/ui_menu_file_for_finding_drafts_developed_by_specific_developer_content.scs - ok
+[1399/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/drafts/ui_menu_file_for_adding_new_draft/lib_component_ui_menu_file_for_adding_new_draft.scs - ok
+[1400/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/drafts/ui_menu_file_for_adding_new_draft/ui_menu_file_for_adding_new_draft_content.scs - ok
+[1401/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/expert/ui_menu_file_for_agent_expert_rejected_of_proposal_for_verified_proposals/ui_menu_file_for_expert_rejection_of_verified_proposal_content.scs - ok
+[1402/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/search/find_definitions/lib_component_agent_of_finding_definitions.scs - ok
+[1403/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/expert/ui_menu_file_for_agent_expert_rejected_of_proposal_for_verified_proposals/lib_component_ui_menu_file_for_expert_rejection_of_verified_proposal.scs - ok
+[1404/1455]: knowledge-base/subject_domain_of_project/concepts/relations/nrel_file_path.scs - ok
+[1405/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/activ_auto/expert/ui_menu_assign_form_verif_produce/ui_menu_assign_form_verif_prod_content.scs - ok
+[1406/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/eekb_commands/activity_automatisation_for_eekb/manager/lib_ui_menu_manager_for_eekb.scs - ok
+[1407/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/verification/ui_menu_file_for_agent_of_checking_subject_domain_membership_for_classes_in_given_structure/lib_ui_menu_file_for_agent_of_checking_subject_domain_membership_for_classes_in_given_structure.scs - ok
+[1408/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/unificated_models/section_unificated_models_interface/model_of_user_interface/models_of_ui_native_languages/semantic_model_russian_texts_semantic_analysis.scs - ok
+[1409/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/eekb_commands/activity_automatisation_for_eekb/developer/ui_menu_developer_for_eekb_content.scs - ok
+[1410/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/Methods_evaluation/Kb_volume_metrics/agent_of_calculation_number_of_concepts_and_relations/agent_of_calculation_number_of_concepts_and_relations_content.scs - ok
+[1411/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/eekb_commands/kb_editing_for_eekb/lib_ui_menu_kb_editing_for_eekb.scs - ok
+[1412/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/semantic_networks_processing.scs - ok
+[1413/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/verification/scp_program_component/lib_component_proc_of_clipping_elements_not_part_of_the_cycle/proc_of_clipping_elements_not_part_of_the_cycle_content.scs - ok
+[1414/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/eekb_commands/kb_verification_for_eekb/lib_ui_menu_kb_verification_for_eekb.scs - ok
+[1415/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/na_view_kb_base/lib_ui_menu_na_view_kb_base.scs - ok
+[1416/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/unauthorized_users/with_context/find_all_superclasses_in_quasybinary_relation_in_the_agreed_part_of_kb/ui_menu_view_all_superclasses_in_quasybinary_relation_in_the_agreed_part_of_kb_content.scs - ok
+[1417/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/eekb_commands/ontology_forming_for_eekb/ui_menu_ontology_forming_for_eekb_content.scs - ok
+[1418/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/authorized_users/without_context/find_all_superclasses_in_quasybinary_relation/lib_component_ui_menu_view_all_superclasses_in_quasybinary_relation.scs - ok
+[1419/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/eekb_commands/my_changes_for_eekb/ui_menu_my_changes_for_eekb_content.scs - ok
+[1420/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/set_of_platforms/web_hardware_sc_memory.scs - ok
+[1421/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/eekb_commands/commom/eekb_commands_util.scs - ok
+[1422/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/eekb_commands/kb_evaluation_for_eekb/diff_vertex_connections_metrics/lib_ui_menu_diff_vertex_connections_metrics_for_eekb.scs - ok
+[1423/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/na_ontologies/ui_na_ontologies_content.scs - ok
+[1424/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/Methods_evaluation/Depth_metrics/agent_calcul_max_onto_dep/agent_calc_max_onto_dep_content.scs - ok
+[1425/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/eekb_commands/kb_evaluation_for_eekb/depth_metrics/ui_menu_depth_metrics_for_eekb_content.scs - ok
+[1426/1455]: knowledge-base/ui_menu/ui_menu_na_example_commands.scs - ok
+[1427/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/technique/section_technique_of_designing_unified_semantic_models_of_kb.scs - ok
+[1428/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/na_various_concepts/lib_ui_na_various_concepts.scs - ok
+[1429/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/eekb_commands/kb_evaluation_for_eekb/depth_metrics/lib_ui_menu_depth_metrics_for_eekb.scs - ok
+[1430/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/na_kb_editing/ui_menu_na_kb_editing_content.scs - ok
+[1431/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/Methods_evaluation/Depth_metrics/common/scp_prog_comp/lib_comp_find_vertexes_lw_lvl/proc_find_v_lw_lvl_content.scs - ok
+[1432/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/validation/section_library_of_reusable_scp_programs_for_validation.scs - ok
+[1433/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/na_various_concepts/ui_na_various_concepts_content.scs - ok
+[1434/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/unauthorized_users/na_view_kb_base_for_unauthorized_users/lib_ui_menu_na_view_kb_base_for_unauthorized_users.scs - ok
+[1435/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/unauthorized_users/na_view_kb_pattern_for_unauthorized_users/ui_menu_na_view_kb_pattern_for_unauthorized_users_content.scs - ok
+[1436/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/unauthorized_users/na_view_kb_pattern_for_unauthorized_users/lib_ui_menu_na_view_kb_pattern_for_unauthorized_users.scs - ok
+[1437/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/unauthorized_users/na_ontologies_for_unauthorized_users/ui_na_ontologies_for_unauthorized_users_content.scs - ok
+[1438/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/unauthorized_users/na_ontologies_for_unauthorized_users/lib_ui_na_ontologies_for_unauthorized_users.scs - ok
+[1439/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/unificated_models/section_unificated_models_interface/model_of_user_interface/models_of_ui_viewers/models_of_ui_scn_viewer.scs - ok
+[1440/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/unauthorized_users/na_view_kb_extended_for_unauthorized_users/ui_menu_na_view_kb_extended_for_unauthorized_users_content.scs - ok
+[1441/1455]: knowledge-base/ims.ostis.kb/ims/context_technology_OSTIS_and_Metasystem_IMS_in_the_Global_knowledge_base/context_technology_OSTIS_and_Metasystem_IMS_in_the_Global_knowledge_base_content.scs - ok
+[1442/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/unauthorized_users/na_various_concepts_for_unauthorized_users/ui_na_various_concepts_for_unauthorized_users_content.scs - ok
+[1443/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/unauthorized_users/with_context/find_pattern_in_the_agreed_part_of_kb/ui_menu_file_for_finding_pattern_in_the_agreed_part_of_kb_content.scs - ok
+[1444/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/unauthorized_users/with_context/find_examples_in_the_agreed_part_of_kb/lib_component_ui_menu_file_for_finding_examples_in_the_agreed_part_of_kb.scs - ok
+[1445/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/unauthorized_users/with_context/find_examples_in_the_agreed_part_of_kb/ui_menu_file_for_finding_examples_in_the_agreed_part_of_kb_content.scs - ok
+[1446/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/activity_automatisation/admin/agent_of_assign_user_as_expert/sc_agent_of_assign_user_as_expert.scs - ok
+[1447/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_c_agents/search_of_all_identifiers/lib_component_agent_of_search_of_all_identifiers.scs - ok
+[1448/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/unauthorized_users/with_context/find_all_output_const_pos_arc_with_rel_in_the_agreed_part_of_kb/ui_menu_view_all_output_const_pos_arc_with_rel_in_the_agreed_part_of_kb_content.scs - ok
+[1449/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/eekb_commands/navigation_for_eekb/navigation_by_initiated_signs_for_eekb/ui_menu_navigation_by_initiated_signs_for_eekb_content.scs - ok
+[1450/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/unauthorized_users/with_context/find_all_output_const_pos_arc_in_the_agreed_part_of_kb/ui_menu_view_all_output_const_pos_arc_in_the_agreed_part_of_kb_content.scs - ok
+[1451/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/unauthorized_users/with_context/find_all_output_const_pos_arc_in_the_agreed_part_of_kb/lib_component_ui_menu_view_all_output_const_pos_arc_in_the_agreed_part_of_kb.scs - ok
+[1452/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_reusable_comp_kpm/reusable_sc_agents/lib_scp_agents/search/find_illustrations/lib_component_agent_of_finding_illustrations.scs - ok
+[1453/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/unauthorized_users/with_context/find_all_subclasses_in_quasybinary_relation_in_the_agreed_part_of_kb/lib_component_ui_menu_view_all_subclasses_in_quasybinary_relation_in_the_agreed_part_of_kb.scs - ok
+[1454/1455]: knowledge-base/examples/subject_domain_of_blockchain/concepts/classes/concept_blockhain.scs - ok
+[1455/1455]: knowledge-base/ims.ostis.kb/ims/ostis_tech/lib_ostis/sectn_lib_of_reusable_comp_ui/ui_menu/search/unauthorized_users/with_context/find_theorems_in_the_agreed_part_of_kb/lib_component_ui_menu_file_for_finding_theorems_in_the_agreed_part_of_kb.scs - ok
+Clean state...
+Statistics
+Nodes: 26284(6.68382%)
+Connectors: 354516(90.1507%)
+Links: 12448(3.16543%)
+Total: 393248
+[05:20:32][Info]: Shutdown ScKeynodes
+[05:20:32][Info]: [sc-memory] Shutdown
+[05:20:32][Info]: [sc-memory] Shutdown extensions
+[05:20:32][Info]: [sc-memory] Extensions shutdown
+[05:20:32][Info]: [sc-memory] Shutdown sc-helper
+[05:20:32][Info]: [sc-fs-memory] Save sc-memory segments
+[05:20:32][Info]:       Loaded segments count: 6
+[05:20:32][Info]:       Sc-segments size: 25165872
+[05:20:32][Info]:       Last not engaged segment num: 0
+[05:20:32][Info]:       Last released segment num: 3
+[05:20:32][Info]: [sc-fs-memory] Sc-memory segments saved
+[05:20:32][Info]: [sc-fs-memory] Save sc-fs-memory dictionaries
+[05:20:32][Info]: [sc-fs-memory] Dictionary `term - offsets` written
+[05:20:32][Info]: [sc-fs-memory] Dictionary `string offsets - link hashes` written
+[05:20:32][Info]:       Last string offset: 1164706
+[05:20:32][Info]: [sc-fs-memory] All sc-fs-memory dictionaries saved
+[05:20:32][Info]: [sc-fs-memory] Shutdown
+[05:20:32][Info]: [sc-fs-memory] Successfully shutdown
+[05:20:32][Info]: [sc-memory] Shutdown context manager
+[05:20:32][Info]: [sc-memory] Shutdown
+-- Using Conan toolchain: /home/shahzad/PPOIS/gpt/ppois_rr_variant6_network_resilience(1)/work_ppois_rr_clean/build/Release/generators/conan_toolchain.cmake
+-- Conan toolchain: Defining architecture flag: -m64
+-- Conan toolchain: C++ Standard 17 with extensions ON
+-- Current project version: 0.10.0
+-- Conan: Component target declared 'GTest::gtest'
+-- Conan: Component target declared 'GTest::gtest_main'
+-- Conan: Component target declared 'GTest::gmock'
+-- Conan: Component target declared 'GTest::gmock_main'
+-- Conan: Target declared 'gtest::gtest'
+-- Using /usr/bin/ccache as compiler launcher
+-- Create test test_network_resilience
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/shahzad/PPOIS/gpt/ppois_rr_variant6_network_resilience(1)/work_ppois_rr_clean/build/Release
+[ 60%] Built target network_resilience_module
+[100%] Built target test_network_resilience
+-- Using Conan toolchain: /home/shahzad/PPOIS/gpt/ppois_rr_variant6_network_resilience(1)/work_ppois_rr_clean/build/Release/generators/conan_toolchain.cmake
+-- Conan toolchain: Defining architecture flag: -m64
+-- Conan toolchain: C++ Standard 17 with extensions ON
+-- Current project version: 0.10.0
+-- Conan: Component target declared 'GTest::gtest'
+-- Conan: Component target declared 'GTest::gtest_main'
+-- Conan: Component target declared 'GTest::gmock'
+-- Conan: Component target declared 'GTest::gmock_main'
+-- Conan: Target declared 'gtest::gtest'
+-- Using /usr/bin/ccache as compiler launcher
+-- Create test test_network_resilience
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/shahzad/PPOIS/gpt/ppois_rr_variant6_network_resilience(1)/work_ppois_rr_clean/build/Release
+[ 60%] Built target network_resilience_module
+[100%] Built target test_network_resilience
+UpdateCTestConfiguration  from :/home/shahzad/PPOIS/gpt/ppois_rr_variant6_network_resilience(1)/work_ppois_rr_clean/build/Release/DartConfiguration.tcl
+Parse Config file:/home/shahzad/PPOIS/gpt/ppois_rr_variant6_network_resilience(1)/work_ppois_rr_clean/build/Release/DartConfiguration.tcl
+Test project /home/shahzad/PPOIS/gpt/ppois_rr_variant6_network_resilience(1)/work_ppois_rr_clean/build/Release
+Constructing a list of tests
+Done constructing a list of tests
+Updating test list for fixtures
+Added 0 tests to meet fixture requirements
+Checking test dependency graph...
+Checking test dependency graph end
+test 1
+    Start 1: NetworkResilienceTest.CycleGraphHasConnectivity2
+
+1: Test command: /home/shahzad/PPOIS/gpt/ppois_rr_variant6_network_resilience(1)/work_ppois_rr_clean/build/Release/bin/test_network_resilience "--gtest_filter=NetworkResilienceTest.CycleGraphHasConnectivity2" "--gtest_also_run_disabled_tests"
+1: Working Directory: /home/shahzad/PPOIS/gpt/ppois_rr_variant6_network_resilience(1)/work_ppois_rr_clean/problem-solver/network_resilience_module/test
+1: Test timeout computed to be: 1500
+1: Running main() from /home/shahzad/.conan2/p/b/gtest54d49c68b31a2/b/src/googletest/src/gtest_main.cc
+1: Note: Google Test filter = NetworkResilienceTest.CycleGraphHasConnectivity2
+1: [==========] Running 1 test from 1 test suite.
+1: [----------] Global test environment set-up.
+1: [----------] 1 test from NetworkResilienceTest
+1: [ RUN      ] NetworkResilienceTest.CycleGraphHasConnectivity2
+1: [05:20:33][Info]: Initialize ScKeynodes
+1: [05:20:33][Info]: Subscribe agent implementation `AnalyzeNetworkResilienceAgent` to event `ScEventAfterGenerateOutgoingArc` with subscription sc-element `action_initiated`.
+1: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` reacted to primary initiation condition.
+1: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` started checking initiation condition.
+1: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` finished checking initiation condition.
+1: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` started performing action.
+1: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` finished performing action successfully.
+1: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` started checking result condition.
+1: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` finished checking result condition.
+1: [05:20:33][Info]: Unsubscribe agent implementation `AnalyzeNetworkResilienceAgent` from event `ScEventAfterGenerateOutgoingArc` with subscription sc-element `action_initiated`.
+1: [05:20:33][Info]: Shutdown ScKeynodes
+1: [       OK ] NetworkResilienceTest.CycleGraphHasConnectivity2 (23 ms)
+1: [----------] 1 test from NetworkResilienceTest (23 ms total)
+1: 
+1: [----------] Global test environment tear-down
+1: [==========] 1 test from 1 test suite ran. (23 ms total)
+1: [  PASSED  ] 1 test.
+1/4 Test #1: NetworkResilienceTest.CycleGraphHasConnectivity2 ...........................   Passed    0.03 sec
+test 2
+    Start 2: NetworkResilienceTest.ChainGraphHasArticulationPointsAndBridges
+
+2: Test command: /home/shahzad/PPOIS/gpt/ppois_rr_variant6_network_resilience(1)/work_ppois_rr_clean/build/Release/bin/test_network_resilience "--gtest_filter=NetworkResilienceTest.ChainGraphHasArticulationPointsAndBridges" "--gtest_also_run_disabled_tests"
+2: Working Directory: /home/shahzad/PPOIS/gpt/ppois_rr_variant6_network_resilience(1)/work_ppois_rr_clean/problem-solver/network_resilience_module/test
+2: Test timeout computed to be: 1500
+2: Running main() from /home/shahzad/.conan2/p/b/gtest54d49c68b31a2/b/src/googletest/src/gtest_main.cc
+2: Note: Google Test filter = NetworkResilienceTest.ChainGraphHasArticulationPointsAndBridges
+2: [==========] Running 1 test from 1 test suite.
+2: [----------] Global test environment set-up.
+2: [----------] 1 test from NetworkResilienceTest
+2: [ RUN      ] NetworkResilienceTest.ChainGraphHasArticulationPointsAndBridges
+2: [05:20:33][Info]: Initialize ScKeynodes
+2: [05:20:33][Info]: Subscribe agent implementation `AnalyzeNetworkResilienceAgent` to event `ScEventAfterGenerateOutgoingArc` with subscription sc-element `action_initiated`.
+2: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` reacted to primary initiation condition.
+2: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` started checking initiation condition.
+2: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` finished checking initiation condition.
+2: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` started performing action.
+2: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` finished performing action successfully.
+2: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` started checking result condition.
+2: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` finished checking result condition.
+2: [05:20:33][Info]: Unsubscribe agent implementation `AnalyzeNetworkResilienceAgent` from event `ScEventAfterGenerateOutgoingArc` with subscription sc-element `action_initiated`.
+2: [05:20:33][Info]: Shutdown ScKeynodes
+2: [       OK ] NetworkResilienceTest.ChainGraphHasArticulationPointsAndBridges (27 ms)
+2: [----------] 1 test from NetworkResilienceTest (27 ms total)
+2: 
+2: [----------] Global test environment tear-down
+2: [==========] 1 test from 1 test suite ran. (27 ms total)
+2: [  PASSED  ] 1 test.
+2/4 Test #2: NetworkResilienceTest.ChainGraphHasArticulationPointsAndBridges ............   Passed    0.03 sec
+test 3
+    Start 3: NetworkResilienceTest.StarGraphHasOneArticulationAndAllBridges
+
+3: Test command: /home/shahzad/PPOIS/gpt/ppois_rr_variant6_network_resilience(1)/work_ppois_rr_clean/build/Release/bin/test_network_resilience "--gtest_filter=NetworkResilienceTest.StarGraphHasOneArticulationAndAllBridges" "--gtest_also_run_disabled_tests"
+3: Working Directory: /home/shahzad/PPOIS/gpt/ppois_rr_variant6_network_resilience(1)/work_ppois_rr_clean/problem-solver/network_resilience_module/test
+3: Test timeout computed to be: 1500
+3: Running main() from /home/shahzad/.conan2/p/b/gtest54d49c68b31a2/b/src/googletest/src/gtest_main.cc
+3: Note: Google Test filter = NetworkResilienceTest.StarGraphHasOneArticulationAndAllBridges
+3: [==========] Running 1 test from 1 test suite.
+3: [----------] Global test environment set-up.
+3: [----------] 1 test from NetworkResilienceTest
+3: [ RUN      ] NetworkResilienceTest.StarGraphHasOneArticulationAndAllBridges
+3: [05:20:33][Info]: Initialize ScKeynodes
+3: [05:20:33][Info]: Subscribe agent implementation `AnalyzeNetworkResilienceAgent` to event `ScEventAfterGenerateOutgoingArc` with subscription sc-element `action_initiated`.
+3: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` reacted to primary initiation condition.
+3: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` started checking initiation condition.
+3: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` finished checking initiation condition.
+3: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` started performing action.
+3: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` finished performing action successfully.
+3: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` started checking result condition.
+3: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` finished checking result condition.
+3: [05:20:33][Info]: Unsubscribe agent implementation `AnalyzeNetworkResilienceAgent` from event `ScEventAfterGenerateOutgoingArc` with subscription sc-element `action_initiated`.
+3: [05:20:33][Info]: Shutdown ScKeynodes
+3: [       OK ] NetworkResilienceTest.StarGraphHasOneArticulationAndAllBridges (17 ms)
+3: [----------] 1 test from NetworkResilienceTest (17 ms total)
+3: 
+3: [----------] Global test environment tear-down
+3: [==========] 1 test from 1 test suite ran. (17 ms total)
+3: [  PASSED  ] 1 test.
+3/4 Test #3: NetworkResilienceTest.StarGraphHasOneArticulationAndAllBridges .............   Passed    0.02 sec
+test 4
+    Start 4: NetworkResilienceTest.BowtieGraphHasArticulationButNoBridgesAndEdgeConn2
+
+4: Test command: /home/shahzad/PPOIS/gpt/ppois_rr_variant6_network_resilience(1)/work_ppois_rr_clean/build/Release/bin/test_network_resilience "--gtest_filter=NetworkResilienceTest.BowtieGraphHasArticulationButNoBridgesAndEdgeConn2" "--gtest_also_run_disabled_tests"
+4: Working Directory: /home/shahzad/PPOIS/gpt/ppois_rr_variant6_network_resilience(1)/work_ppois_rr_clean/problem-solver/network_resilience_module/test
+4: Test timeout computed to be: 1500
+4: Running main() from /home/shahzad/.conan2/p/b/gtest54d49c68b31a2/b/src/googletest/src/gtest_main.cc
+4: Note: Google Test filter = NetworkResilienceTest.BowtieGraphHasArticulationButNoBridgesAndEdgeConn2
+4: [==========] Running 1 test from 1 test suite.
+4: [----------] Global test environment set-up.
+4: [----------] 1 test from NetworkResilienceTest
+4: [ RUN      ] NetworkResilienceTest.BowtieGraphHasArticulationButNoBridgesAndEdgeConn2
+4: [05:20:33][Info]: Initialize ScKeynodes
+4: [05:20:33][Info]: Subscribe agent implementation `AnalyzeNetworkResilienceAgent` to event `ScEventAfterGenerateOutgoingArc` with subscription sc-element `action_initiated`.
+4: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` reacted to primary initiation condition.
+4: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` started checking initiation condition.
+4: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` finished checking initiation condition.
+4: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` started performing action.
+4: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` finished performing action successfully.
+4: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` started checking result condition.
+4: [05:20:33][Info]: AnalyzeNetworkResilienceAgent: Agent `AnalyzeNetworkResilienceAgent` finished checking result condition.
+4: [05:20:33][Info]: Unsubscribe agent implementation `AnalyzeNetworkResilienceAgent` from event `ScEventAfterGenerateOutgoingArc` with subscription sc-element `action_initiated`.
+4: [05:20:33][Info]: Shutdown ScKeynodes
+4: [       OK ] NetworkResilienceTest.BowtieGraphHasArticulationButNoBridgesAndEdgeConn2 (12 ms)
+4: [----------] 1 test from NetworkResilienceTest (12 ms total)
+4: 
+4: [----------] Global test environment tear-down
+4: [==========] 1 test from 1 test suite ran. (12 ms total)
+4: [  PASSED  ] 1 test.
+4/4 Test #4: NetworkResilienceTest.BowtieGraphHasArticulationButNoBridgesAndEdgeConn2 ...   Passed    0.02 sec
+
+100% tests passed, 0 tests failed out of 4
+
+Total Test time (real) =   0.10 sec
+(.venv) shahzad@LEGION-5:~/PPOIS/gpt/ppois_rr_variant6_network_resilience(1)/work_ppois_rr_clean$ 

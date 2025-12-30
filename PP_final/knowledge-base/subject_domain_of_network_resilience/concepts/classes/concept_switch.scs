@@ -1,0 +1,8 @@
+concept_switch
+<- sc_node_class;
+=> nrel_main_idtf:
+  [коммутатор]
+  (* <- lang_ru;; *);
+  [switch]
+  (* <- lang_en;; *);
+<= nrel_inclusion: concept_network_device;;

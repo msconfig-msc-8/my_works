@@ -1,0 +1,25 @@
+ui_menu_network_resilience
+<- ui_user_command_class_noatom;
+=> nrel_main_idtf:
+  [Отказоустойчивость сети]
+  (* <- lang_ru;; *);
+  [Network resilience]
+  (* <- lang_en;; *);
+<= nrel_ui_commands_decomposition:
+{
+  ui_menu_analyze_network_resilience
+};;
+
+ui_menu_analyze_network_resilience
+<- ui_one_argument_command_class;
+=> nrel_main_idtf:
+  [Проанализировать топологию сети]
+  (* <- lang_ru;; *);
+  [Analyze network topology]
+  (* <- lang_en;; *);
+=> ui_nrel_command_template:
+  [*
+    action_analyze_network_resilience _-> ._instance
+      (* -> rrel_1:: ui_arg_1;; *);;
+    ._instance <-_ action;;
+  *];;

@@ -1,0 +1,8 @@
+concept_gateway
+<- sc_node_class;
+=> nrel_main_idtf:
+  [шлюз]
+  (* <- lang_ru;; *);
+  [gateway]
+  (* <- lang_en;; *);
+<= nrel_inclusion: concept_network_device;;

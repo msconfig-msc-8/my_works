@@ -36,35 +36,7 @@
 └── README.md                       # Этот файл
 ```
 
-## Компиляция и запуск
 
-### Компиляция основной программы
-```bash
-g++ -std=c++17 -Wall -Wextra -I src -o social_network src/main.cpp
-```
-
-### Запуск программы
-```bash
-./social_network
-```
-
-### Компиляция тестов
-```bash
-g++ -std=c++17 -Wall -Wextra -I src -I tests -o tests tests/tests.cpp
-```
-
-### Запуск тестов
-```bash
-./tests
-```
-
-### Использование Makefile
-```bash
-make          # Компиляция программы
-make test     # Компиляция и запуск тестов
-make run      # Запуск программы
-make clean    # Очистка
-```
 
 ---
 
@@ -299,6 +271,7 @@ make clean    # Очистка
 35. **ContentRecommendation** → **User**, **Post**
 
 ---
+
 
 
 

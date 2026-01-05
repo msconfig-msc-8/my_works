@@ -1,0 +1,63 @@
+# Doxyfile - Конфигурация Doxygen для проекта "Социальная сеть"
+
+# Основные настройки проекта
+PROJECT_NAME           = "Социальная сеть"
+PROJECT_NUMBER         = "1.0"
+PROJECT_BRIEF          = "Лабораторная работа №2 - Модель социальной сети на C++"
+OUTPUT_DIRECTORY       = docs
+OUTPUT_LANGUAGE        = Russian
+
+# Входные файлы
+INPUT                  = src README.md
+INPUT_ENCODING         = UTF-8
+FILE_PATTERNS          = *.hpp *.cpp *.h *.md
+RECURSIVE              = YES
+EXCLUDE                = tests
+
+# Настройки извлечения
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+EXTRACT_LOCAL_CLASSES  = YES
+
+# Генерация HTML
+GENERATE_HTML          = YES
+HTML_OUTPUT            = html
+HTML_FILE_EXTENSION    = .html
+HTML_COLORSTYLE_HUE    = 220
+HTML_COLORSTYLE_SAT    = 100
+HTML_COLORSTYLE_GAMMA  = 80
+HTML_TIMESTAMP         = YES
+GENERATE_TREEVIEW      = YES
+
+# Отключение LaTeX
+GENERATE_LATEX         = NO
+
+# Диаграммы и графы
+HAVE_DOT               = NO
+CLASS_DIAGRAMS         = YES
+HIDE_UNDOC_RELATIONS   = NO
+CLASS_GRAPH            = YES
+COLLABORATION_GRAPH    = YES
+
+# Настройки препроцессора
+ENABLE_PREPROCESSING   = YES
+MACRO_EXPANSION        = NO
+EXPAND_ONLY_PREDEF     = NO
+
+# Дополнительные настройки
+ALPHABETICAL_INDEX     = YES
+GENERATE_TODOLIST      = YES
+GENERATE_BUGLIST       = YES
+GENERATE_DEPRECATEDLIST= YES
+SHOW_INCLUDE_FILES     = YES
+SHOW_GROUPED_MEMB_INC  = YES
+
+# Вывод предупреждений
+QUIET                  = NO
+WARNINGS               = YES
+WARN_IF_UNDOCUMENTED   = YES
+WARN_IF_DOC_ERROR      = YES
+
+# Использование README как главной страницы
+USE_MDFILE_AS_MAINPAGE = README.md
